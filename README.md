@@ -1,4 +1,4 @@
-# coursepath.ai
+ # coursepath.ai
 
 This is our submission for the lablabai [Falcon Hackathon](https://lablab.ai/event/falcon-hackathon/kibernum-usa/careerpath-ai)
 
